@@ -1,0 +1,11 @@
+Django[argon2]
+Django
+djangorestframework==3.11.1
+djangorestframework-simplejwt==4.6.0
+django-cors-headers==3.4.0
+psycopg2
+dj-database-url
+dj-static
+djoser==2.0.3
+PyJWT==2.0.0
+python-decouple
